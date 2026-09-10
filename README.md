@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Finn (@finneng222) 👋
 
-<!--
-**finneng222/finneng222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in Sydney. I build clean, fast web interfaces and occasionally fight CSS specificity wars. Currently freelancing and experimenting with Next.js App Router patterns.
 
-Here are some ideas to get you started:
+#### Stack & Tools
+- **Languages & Frameworks:** TypeScript, JavaScript, React, Next.js, HTML5, modern CSS
+- **Styling & Tooling:** TailwindCSS, Vite, Vitest, npm/pnpm, Git
+- **Currently learning:** Web performance tuning and edge runtimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Get in touch
+- LinkedIn: [linkedin.com/in/finneng222](https://linkedin.com)
+- Email: finn.eng.dev@gmail.com
+- Website: [finneng.dev](https://finneng.dev)
